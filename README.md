@@ -1,4 +1,4 @@
-![Screenshot 2023-12-15 181113](https://github.com/Rithikachezhian/INVERSE-OF-A-MATRIX/assets/145742406/a6aeddcf-8eb6-4f85-91c2-96bf0b2766f2)# INVERSE-OF-A-MATRIX
+
 ## Aim:
 To write a python program to find the inverse of a matrix
 ## Equipment’s required:
