@@ -1,4 +1,4 @@
-##INVERSE-OF-A-MATRIX
+## INVERSE OF A MATRIX:
 
 
 ## Aim:
